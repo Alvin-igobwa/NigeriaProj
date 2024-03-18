@@ -5,9 +5,6 @@ import numpy as np
 # loading the library for the visualisation
 import streamlit as st
 
-# Visualisations
-import matplotlib.pyplot as plt
-
 # Correlation test
 from scipy import stats
 from scipy.stats import pearsonr
